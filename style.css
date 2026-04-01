@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+    .headline {
+        font-size: 15px;
+        font-weight: bold;
+        color: rgb(236, 231, 226);
+    }
+
+    #heading {
+        background-color: #433838;
+        font-size: 20px;
+    }
+
+    #heading img {
+         margin-top: 40px;
+         height: 200px;
+         border-radius: 60%;
+    }
+
+    #heading h1 {
+        color: #ce0707;
+        font-size: 40px;
+    }
+
+    #heading p {
+        color: aliceblue;
+        font-size: 25px;
+        font-weight: bold;
+        
+    }
+
+    #menu {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-color: #1f1818;
+        text-align: center;
+    }
+
+    #menu ul {
+        list-style-type: none;
+    }
+
+    #menu li {
+        display: inline;
+        margin-right: 40px;
+        font-size: 20px;
+        font-size: bold;
+    }
+
+    #menu ul li a {
+        text-decoration: none;
+        color: aliceblue;
+    }
+
+    #menu ul li a:hover {
+        text-decoration: underline;
+        color: #cee070;
+    }
+
+    #about {
+        text-align: center;
+        padding-left: 100px;
+        padding-right: 100px;
+        padding-top: 30px;
+    }
+
+    #about h1 { 
+            color:#1f1818;
+        font-size: 50px;
+        padding-bottom: 20px;
+    }
+
+    #about p {
+        color: #433838;
+        font-size: 20px;
+        line-height: 1.7;
+        padding-bottom: 40px;
+    }
+
+    #project {
+        text-align: center;
+        padding-top: 30px;
+    }
+
+    #project h1 {
+        background-color: #433838;
+        font-size: 40px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        color: #f2eaea;
+    }
+
+    #project ul {
+        list-style-type: decimal-leading-zero;
+    }
+
+    #project ul li {
+        font-size: 20px;
+        margin-top: 5px;
+    }
+
+    #footer {
+        background-color: #6e5c5c;
+        text-align: left;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        margin-top: 40px;
+    }
